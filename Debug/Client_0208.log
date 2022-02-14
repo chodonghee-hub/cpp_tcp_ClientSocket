@@ -1,0 +1,7 @@
+﻿  cClientManager.cpp
+  cClientSocket.cpp
+  cClntObj.cpp
+c:\users\lns_2021\source\repos\0208\client\client_0208\client_0208\cclntobj.cpp(57): warning C4101: 'e' :참조되지 않은 지역 변수입니다.
+  Client_0208.cpp
+  코드를 생성하고 있습니다...
+  Client_0208.vcxproj -> C:\Users\lns_2021\source\repos\0208\Client\Client_0208\Debug\Client_0208.exe
